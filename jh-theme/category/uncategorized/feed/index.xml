@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; JH Clean Theme</title>
+	<title>Uncategorized Archivy - JH Clean Theme</title>
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/category/uncategorized/</link>
 	<description>Clean Theme made by Jan Heder</description>
 	<lastBuildDate>Thu, 21 Jul 2022 16:53:01 +0000</lastBuildDate>
 	<language>cs</language>
@@ -29,9 +29,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>Článek <a rel="nofollow" href="/2022/07/21/hello-world/">Hello world!</a> se nejdříve objevil na <a rel="nofollow" href="/">JH Clean Theme</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>Článek <a rel="nofollow" href="/2022/07/21/hello-world/">Hello world!</a> se nejdříve objevil na <a rel="nofollow" href="/">JH Clean Theme</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2022/07/21/hello-world/feed/</wfw:commentRss>
