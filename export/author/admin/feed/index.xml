@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>JH Clean Theme</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<title>admin, Autor na JH Clean Theme</title>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/admin/</link>
 	<description>Clean Theme made by Jan Heder</description>
 	<lastBuildDate>Thu, 21 Jul 2022 16:53:01 +0000</lastBuildDate>
 	<language>cs</language>
