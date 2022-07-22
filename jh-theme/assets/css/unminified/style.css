@@ -4932,3 +4932,8 @@ input[type="color"]::-webkit-color-swatch {
 .ahfb-svg-iconset svg > * {
   transition: none;
 }
+
+
+#benefits{
+  border-bottom: 1PX solid #F5F5F5;
+}
